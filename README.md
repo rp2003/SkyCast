@@ -18,7 +18,6 @@ SkyCast is a real-time weather application built with React and Vite.js that fet
 **Fetching Weather Data:** SkyCast uses axios to send requests to the OpenWeatherMap API. When a user enters a location, the app fetches weather data such as temperature, weather description, humidity, and wind speed.
 
 **Dynamic UI Updates:**
-
 The app displays different weather icons (e.g., sunny, cloudy) based on the main field of the weather response.
 Background colors are dynamically set using a gradient that corresponds to the current weather condition (e.g., a sunny gradient for clear weather).
 
@@ -28,7 +27,7 @@ Background colors are dynamically set using a gradient that corresponds to the c
 Ensure you have Node.js installed on your machine.
 
 **Installation**
-Clone the repository: **git clone https://github.com/your-username/skycast-weatherapp.git**
+Clone the repository: **git clone https://github.com/rp2003/skycast-weatherapp.git**
 
 Navigate to the project directory: **cd skycast-weatherapp**
 
