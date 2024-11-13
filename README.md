@@ -27,6 +27,7 @@ Background colors are dynamically set using a gradient that corresponds to the c
 Ensure you have Node.js installed on your machine.
 
 **Installation**
+
 Clone the repository: **git clone https://github.com/rp2003/skycast-weatherapp.git**
 
 Navigate to the project directory: **cd skycast-weatherapp**
