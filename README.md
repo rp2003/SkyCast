@@ -1,6 +1,7 @@
 # SkyCast - Weather App 🌤️
 SkyCast is a real-time weather application built with React and Vite.js that fetches and displays live weather data for any city. The application dynamically updates the background and icons based on the current weather conditions and provides users with key weather metrics such as temperature, humidity, and wind speed.
 
+
 # Tech Stack 🛠️
 **React:** JavaScript library for building the user interface.
 
@@ -12,6 +13,7 @@ SkyCast is a real-time weather application built with React and Vite.js that fet
 
 **@tabler/icons-react:** Icon library for intuitive and visually appealing icons.
 
+
 # How It Works 🌐
 **Core Functionality**
 
@@ -21,10 +23,12 @@ SkyCast is a real-time weather application built with React and Vite.js that fet
 The app displays different weather icons (e.g., sunny, cloudy) based on the main field of the weather response.
 Background colors are dynamically set using a gradient that corresponds to the current weather condition (e.g., a sunny gradient for clear weather).
 
+
 # Installation and Setup 🚀
 **Prerequisites**
 
 Ensure you have Node.js installed on your machine.
+
 
 **Installation**
 
