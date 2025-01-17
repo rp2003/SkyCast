@@ -44,4 +44,6 @@ Running the App Locally
 
 To start the development server, run: **npm run dev**
 
-The app will be accessible at http://localhost:5173.
+**Project Demo**: https://youtu.be/lLJX8ONcYu8
+
+
